@@ -7076,6 +7076,21 @@ npm-run-path@^2.0.0:
   dependencies:
     path-key "^2.0.0"
 
+"npm-test-xugao-prev@npm:npm-test-xugao@2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/npm-test-xugao/-/npm-test-xugao-2.1.0.tgz#75616e1e790046cf2cc5b73143ac06bed4fc01c0"
+  integrity sha512-zip1F4oeWL/QVO0ZZu0CxaI1hjKfWe/FU74UMLLCluumzS16Tk2EQrwbRHYR7cpUXTbaCsMhAomoVCP90iBckQ==
+  dependencies:
+    react "^16.13.0"
+
+npm-test-xugao@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/npm-test-xugao/-/npm-test-xugao-2.2.0.tgz#b1cfe524a2d624201ebdb1630bbbc2ef63bc529e"
+  integrity sha512-OSx5WlzQytVBU41bzIAFDNX/Q58ahokDLv1yB0nfdB07tiIOYeSzYBKu6+5TvQjvzu7OAhDqhCM2wj6Md/nPPw==
+  dependencies:
+    npm-test-xugao-prev "npm:npm-test-xugao@2.1.0"
+    react "^16.13.0"
+
 nth-check@^1.0.2, nth-check@~1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/nth-check/-/nth-check-1.0.2.tgz#b2bd295c37e3dd58a3bf0700376663ba4d9cf05c"

@@ -7,7 +7,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^10.0.0",
     "react": "^16.13.0",
-    "react-dom": "^16.13.0",
+    "react-dom": "^17.0.2",
     "react-scripts": "3.4.0",
     "fluent-ui": "npm:office-ui-fabric-react@^7.99.0",
     "npm-test-xugao": "^2.2.0"
